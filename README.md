@@ -6,9 +6,9 @@ Você pode ver nossas vagas em aberto [aqui](https://vagas.epics.com.br).
 
 Após aprovado na etapa inicial acima, selecione o teste em questão e siga os passos do README em questão:
 
-- [Teste de back-end](./tests/back-end.md)
-- [Teste de front-end](./tests/front-end.md)
-- [Teste de full-stack](./tests/full-stack.md)
+- [Teste de back-end](./tests/BACKEND.md)
+- [Teste de front-end](./tests/FRONTEND.md)
+- [Teste de full-stack](./tests/FULLSTACK.md)
 
 Os testes devem ser iniciados a partir de um fork deste repositório o com o padrão de nome
 
@@ -17,6 +17,8 @@ Os testes devem ser iniciados a partir de um fork deste repositório o com o pad
 Exemplo:
 
 ```test-epics-back-end-paulo```
+
+Ao finalizar o teste, avise seu entrevistador!
 
 ---
 

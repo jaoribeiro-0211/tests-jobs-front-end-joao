@@ -19,7 +19,7 @@ Crie uma experiência de checkout (pagamento) que contenha:
 
 O sistema deve-se utilizar as seguintes tecnologias
 
--  **PHP 7 ou superior:** desenvolvimento do sistema e as funções de CRUD dos Clientes.
+-  **PHP 7 ou superior:** desenvolvimento do sistema e as funções de CRUD dos Clientes. (Diferencial para Framework MVC, como Laravel)
 - **MySQL 5.7 ou superior**: criação do banco de dados, com a tabela referente aos Clientes e as informações a serem exibidas. Siga o padrão que achar melhor!
 - **Bootstrap**
 - **JavaScript**

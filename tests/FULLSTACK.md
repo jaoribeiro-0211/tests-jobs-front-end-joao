@@ -34,8 +34,9 @@ O sistema deve-se utilizar as seguintes tecnologias
 ## Banco de dados
 
 - Tabela: `users`
+
 | Campo | Tipo | Nullable |
-|--|--|
+|--|--|--|
 | id | INT [PK] | Não |
 | name | VARCHAR (50) | Não |
 | email | VARCHAR (100) [UQ] | Não |
@@ -47,6 +48,7 @@ O sistema deve-se utilizar as seguintes tecnologias
 | ltv | float | Sim |
 
 - Tabela: `users_visits`
+
 | Campo | Tipo | Nullable |
 |--|--|--|
 | id | INT [PK] | Não |

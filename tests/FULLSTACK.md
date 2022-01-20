@@ -57,13 +57,11 @@ O sistema deve-se utilizar as seguintes tecnologias
 
 ## Diferenciais
 
-Os principais pontos que serão levados em consideração:
-
 - Código limpo: não crie classes, métodos, estilos e regras no CSS sem necessidade. Utilize as classes padrões do próprio bootstrap o máximo possível;
 - Fiel ao layout: quanto mais fiel o projeto for ao layout, melhor;
 - Responsivo: deve ser funcional tanto no mobile quanto desktop;
 - Seguir os padrões de rotas, banco de dados e afins;
-- Utilização do Laravel para desenvolvimento do sistema;
-- Utilizar Migration e Seeders;
+- Utilização do PHP 8 e/ou Laravel 8
+- Utilização de migration e seeders;
 
 **Ao terminar, enviar link do repositório (fork) no GitHub para Guilherme**

@@ -43,9 +43,9 @@ O sistema deve-se utilizar as seguintes tecnologias
 | picture | VARCHAR (255) | Sim |
 | phone_number | CHAR (11) | Sim |
 | birthdate | DATE | Sim |
-| gender | enum | Sim |
-| membership | enum | Não |
-| ltv | float | Sim |
+| gender | ENUM | Sim |
+| membership | ENUM | Não |
+| ltv | FLOAT | Sim |
 
 - Tabela: `users_visits`
 

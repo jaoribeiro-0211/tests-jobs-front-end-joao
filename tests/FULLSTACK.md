@@ -1,4 +1,4 @@
-# Tesde de Full-stack
+# Teste - Full-stack
 
 ## Repositório
 

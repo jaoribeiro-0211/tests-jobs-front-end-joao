@@ -16,6 +16,7 @@ Crie uma experiência de controle de cliente estilo a tela acima e que contenha:
 	- Botão para excluir o cliente com confirmação (por cliente)
 - Tela de adicionar um novo cliente
 - Tela de editar um cliente
+- Não é necessário adicionar autenticação/sessão
 - Não é necessário adicionar menu lateral, header, etc
     - Focar somente na parte de gerenciamento de cliente
     - Não é necessário realizar paginação

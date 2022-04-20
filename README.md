@@ -1,27 +1,29 @@
-# Testes
+# test-epics-front-end-joao
 
-Neste repositório é possível encontrar os testes para vagas abertas no desenvolvimento da EPICS.
+This template should help get you started developing with Vue 3 in Vite.
 
-Você pode ver nossas vagas em aberto [aqui](https://vagas.epics.com.br).
+## Recommended IDE Setup
 
-Após aprovado na etapa inicial acima, selecione o teste em questão e siga os passos do README em questão:
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
 
-- [Teste de back-end](./tests/BACKEND.md)
-- [Teste de front-end](./tests/FRONTEND.md)
-- [Teste de full-stack](./tests/FULLSTACK.md)
+## Customize configuration
 
-Os testes devem ser iniciados a partir de um fork deste repositório o com o padrão de nome
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-```test-epics-<vaga>-<seu_nome>```
+## Project Setup
 
-Exemplo:
+```sh
+npm install
+```
 
-```test-epics-back-end-paulo```
+### Compile and Hot-Reload for Development
 
-Ao finalizar o teste, avise seu entrevistador!
+```sh
+npm run dev
+```
 
----
+### Compile and Minify for Production
 
-Pegue sua xícara de café, inicie o seu teste e boa sorte!
-
-![enter image description here](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
+```sh
+npm run build
+```

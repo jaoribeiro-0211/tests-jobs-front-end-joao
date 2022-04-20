@@ -1,0 +1,36 @@
+:root {
+  --title-color:#1e293b;
+  --subtitle-color:#475569;
+  --label-color:#1e293b;
+  --primary-color:#0d6efd;
+  --sucess-color:#198754;
+}
+
+* {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  transition: color 0.5s, background-color 0.5s;
+  font-family: 'Poppins', sans-serif;
+
+  background-color:#D3D6DE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  margin: 0;
+}
+
+span {
+  font-family: 'Nunito', sans-serif;
+}
+
+
+.pointer {
+  cursor: pointer;
+}
